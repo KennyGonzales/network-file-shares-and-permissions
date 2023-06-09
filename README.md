@@ -22,7 +22,7 @@ In this tutorial, we explore network traffic to and from Azure Virtual Machines 
 
 <p>
   
-Write here  
+In this lab, we will set up shared network files and permissions. We'll create folders on `DC-1` and share them on the network, allowing specific individuals to access certain files. Start by navigating to the **C:/ drive** on `DC-1` and creating four folders: **"read-access"**, **"read/write-access**, **"no-access"**, and **"accounting"**.  
   
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
