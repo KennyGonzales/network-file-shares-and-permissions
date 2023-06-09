@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/AeiqMDZ.png" alt="Traffic Examination"/>
+<img src="https://i.imgur.com/6M3dYMZ.png" height="25%" width="25%" alt="Traffic Examination"/>
 </p>
 
 <h1>Network-File-Shares-and-Permissions</h1>
@@ -18,6 +18,27 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 </p>
 <p>
 <h2> Tutorial Steps </h2>
+
+
+<p>
+  
+Write here  
+  
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
+
+<p>
+  
+Write here  
+  
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
 
 <p>
   
