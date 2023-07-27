@@ -3,7 +3,7 @@
 </p>
 
 <h1>Network-File-Shares-and-Permissions</h1>
-In this tutorial, we explore network traffic to and from Azure Virtual Machines using Wireshark and also experiment with Network Security Groups. <br />
+In this tutorial, we will be creating some sample file shares with various permissions, attempting to access file shares as a normal user, and creating an "Accountants" security group. <br />
 
 <h2>Environments and Technologies Used</h2>
 
